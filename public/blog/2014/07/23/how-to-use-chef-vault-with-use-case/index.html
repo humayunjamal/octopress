@@ -73,8 +73,11 @@
     
     
       <p class="meta">
-        
 
+<p></p><br></br>        
+<h4>Reference URLS</h4>
+<pre><br />http://www.getchef.com/blog/2013/09/19/managing-secrets-with-chef-vault/ or <br />http://jtimberman.housepub.org/blog/2013/09/10/managing-secrets-with-chef-vault/</pre>
+<pre>#knife encrypt create secrets vaultuser '{"password":"abcdxyz1"}' --search 'name:&lt;client/node name&gt;' --admins &lt;admin acount name&gt; --mode client<br /><br /></pre>In the above command the key points are, when creating vault the admins should be mentioned plus the client/node name or role based search should be mentioned otherwise chef server will not identify or allow the vault to be decrypted. For eg if in the above command we mention in --search option 'name:&lt;client/node name&gt;' this will mean if the node/client names will match then the chef server will allow the vault to be decrypted. Also if we use the search option 'role:base' this will mean if the node/client is attached to a role called base then the chef server will allow the vault to be decrypted .
 
 
 
