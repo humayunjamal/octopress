@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://humayunjamal.info/blog/2014/06/10/humayun-jamal-resume/</loc>
+        <lastmod>2014-06-10T13:47:09+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://humayunjamal.info/blog/2014/07/23/how-to-use-chef-vault-with-use-case/</loc>
+        <lastmod>2014-07-23T10:15:38+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://humayunjamal.info/blog/2014/07/23/chef-related-notes/</loc>
+        <lastmod>2014-07-23T12:09:14+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://humayunjamal.info/blog/archives/</loc>
+        <lastmod>2014-07-23T12:09:14+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://humayunjamal.info/robots.txt</loc>
+        <lastmod>2014-06-10T12:16:53+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://humayunjamal.info/</loc>
+        <lastmod>2014-07-23T12:09:14+01:00</lastmod>
+    </url>
+</urlset>

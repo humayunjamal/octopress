@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Humayun Jamal]]></title>
+  <link href="http://humayunjamal.info/atom.xml" rel="self"/>
+  <link href="http://humayunjamal.info/"/>
+  <updated>2014-07-23T12:22:12+01:00</updated>
+  <id>http://humayunjamal.info/</id>
+  <author>
+    <name><![CDATA[Humayun Jamal]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Chef Related Notes]]></title>
+    <link href="http://humayunjamal.info/blog/2014/07/23/chef-related-notes/"/>
+    <updated>2014-07-23T12:09:14+01:00</updated>
+    <id>http://humayunjamal.info/blog/2014/07/23/chef-related-notes</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How to Use Chef-Vault With Use Case]]></title>
+    <link href="http://humayunjamal.info/blog/2014/07/23/how-to-use-chef-vault-with-use-case/"/>
+    <updated>2014-07-23T10:15:38+01:00</updated>
+    <id>http://humayunjamal.info/blog/2014/07/23/how-to-use-chef-vault-with-use-case</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Humayun Jamal: Resume]]></title>
+    <link href="http://humayunjamal.info/blog/2014/06/10/humayun-jamal-resume/"/>
+    <updated>2014-06-10T13:46:03+01:00</updated>
+    <id>http://humayunjamal.info/blog/2014/06/10/humayun-jamal-resume</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
